@@ -1,0 +1,5 @@
+C:\Users\anton\Documents\SharpDevelop Projects\BusManager\CBusManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anton\Documents\SharpDevelop Projects\BusManager\CBusManager\bin\Debug\CBusManager.exe
+C:\Users\anton\Documents\SharpDevelop Projects\BusManager\CBusManager\bin\Debug\CBusManager.pdb
+C:\Users\anton\Documents\SharpDevelop Projects\BusManager\CBusManager\obj\x86\Debug\CBusManager.exe
+C:\Users\anton\Documents\SharpDevelop Projects\BusManager\CBusManager\obj\x86\Debug\CBusManager.pdb
